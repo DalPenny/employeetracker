@@ -30,6 +30,10 @@
   ## Tests
   View All employees to see if the employee you added is there, View all departments to see of the department you added is there, view all roles to see if the role you added is there
   
+  ## Video
+  https://drive.google.com/file/d/11HM3b3ly3Vigksrm_UvxyYBMHaR7JnH-/view
+
+  
   ## Github
   Have questions about this project?  
   GitHub: https://github.com/DalPenny  
